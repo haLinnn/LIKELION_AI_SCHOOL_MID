@@ -1,0 +1,2 @@
+# LIKELION_AI_SCHOOL_MID
+멋쟁이사자처럼 AI SCHOOL 8기 미드 프로젝트
